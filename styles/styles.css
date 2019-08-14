@@ -154,7 +154,7 @@
 .main-section-wrapper >.news-section >.header-news>.submit button {
     background-color:black;
     color:white;
-    width:140px;
+    /* width:140px; */
     border:none;
     padding:10px 20px;
     margin-right:40px;
