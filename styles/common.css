@@ -1,0 +1,22 @@
+body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color:#89a3b2;
+
+}
+.blue{
+    color:#19AED4;
+    cursor:pointer;
+}
+
+.blue-bold{
+    color:#19AED4;
+    font-weight:700;
+}
+
+
+.space{
+    padding:0 10px 0 20px;;
+}
